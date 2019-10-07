@@ -45,6 +45,8 @@ i.putExtra(getString("KEY", "StringValueExtra");
 startActivity(i);
 ```
 
+![startActivity](https://user-images.githubusercontent.com/26600374/66278435-54a37580-e87f-11e9-9de0-d987e0bf2635.png)
+
 **Example**
 ```java
 Intent i = new Intent(MainActivity.this, SecondActivity.class);
