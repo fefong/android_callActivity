@@ -23,7 +23,7 @@ Intent i = new Intent(MainActivity.this, SecondActivity.class);
 startActivity(i);
 ```
 
-![startActivity](https://user-images.githubusercontent.com/26600374/66278435-54a37580-e87f-11e9-9de0-d987e0bf2635.png)
+![startActivity](https://user-images.githubusercontent.com/26600374/66278661-b06efe00-e881-11e9-923d-cb7d7045121a.jpg)
 
 ## Start Activity with Put Extra
 
@@ -47,7 +47,7 @@ i.putExtra(getString("KEY", "StringValueExtra");
 
 startActivity(i);
 ```
-![startActivityPutExtra](https://user-images.githubusercontent.com/26600374/66278475-b237c200-e87f-11e9-89c8-30e391b03a1e.png)
+![startActivityPutExtra](https://user-images.githubusercontent.com/26600374/66278662-b1079480-e881-11e9-8134-1198f0186f05.jpg)
 
 
 **Example**
@@ -148,7 +148,7 @@ if( requestCode ==  CODE_ANY)) {
 
 }
 ```
-![startActivityForResult](https://user-images.githubusercontent.com/26600374/66278521-38ec9f00-e880-11e9-9dec-43047289cf8b.png)
+![startActivityForResult](https://user-images.githubusercontent.com/26600374/66278660-b06efe00-e881-11e9-847c-3db52d38b1d7.jpg)
 
 
 # Some links for more in depth learning
