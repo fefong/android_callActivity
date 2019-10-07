@@ -23,6 +23,8 @@ Intent i = new Intent(MainActivity.this, SecondActivity.class);
 startActivity(i);
 ```
 
+![startActivity](https://user-images.githubusercontent.com/26600374/66278435-54a37580-e87f-11e9-9de0-d987e0bf2635.png)
+
 ## Start Activity with Put Extra
 
 Initialize another activity with parameters
@@ -34,6 +36,7 @@ Using different types of parameters
 * Drawable;
 * Model [(Class Person)](https://github.com/fefong/android_callActivity/blob/master/app/src/main/java/com/example/android_callactivity/model/Person.java) 
 
+
 ### Set PutExtras
 
 **Structure for startActivity with putExtras:**
@@ -44,8 +47,8 @@ i.putExtra(getString("KEY", "StringValueExtra");
 
 startActivity(i);
 ```
+![startActivityPutExtra](https://user-images.githubusercontent.com/26600374/66278475-b237c200-e87f-11e9-89c8-30e391b03a1e.png)
 
-![startActivity](https://user-images.githubusercontent.com/26600374/66278435-54a37580-e87f-11e9-9de0-d987e0bf2635.png)
 
 **Example**
 ```java
