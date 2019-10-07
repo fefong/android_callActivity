@@ -1,7 +1,7 @@
-Android/Java Start Another Activity
+Android/Java Start another Activity
 ===========================
 
-Example Application: Call Activity | Start Another Activity
+Example Application: Call Activity | Start Another Activity - ![Android](https://user-images.githubusercontent.com/26600374/66311112-17bd9a00-e8e4-11e9-9fc6-69abe2a6afc7.png) 
 - [Android/Java Start Another Activity](#androidjava-start-another-activity)
   - [Start Activity](#start-activity)
   - [Start Activity with Put Extra](#start-activity-with-put-extra)
