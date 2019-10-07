@@ -32,7 +32,7 @@ Using different types of parameters
 * Long;
 * Boolean;
 * Drawable;
-* Model [(Class Person)](src/main/java/com/example/android_callactivity/model/Person.java) 
+* Model [(Class Person)](https://github.com/fefong/android_callActivity/blob/master/app/src/main/java/com/example/android_callactivity/model/Person.java) 
 
 ### Set PutExtras
 
