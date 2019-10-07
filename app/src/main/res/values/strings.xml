@@ -1,0 +1,26 @@
+<resources>
+    <!-- [System] -->
+    <string name="app_name">android_callActivity</string>
+
+    <!-- [Text: Titles, Body, Messages and others] -->
+    <string name="callActivity"                 >Call Activity</string>
+    <string name="appJavaAndroid"               >App Java/Android</string>
+    <string name="second_activity"              >Second Activity</string>
+    <string name="back_activity_main"           >Back Activity Main</string>
+    <string name="activity_result"              >Activity Result</string>
+    <string name="start_activity"               >Start Activity</string>
+    <string name="start_activity_with_put_extra">Start Activity with Put Extra</string>
+    <string name="start_activity_for_result"    >Start Activity For Result</string>
+    <string name="no_extras_activityforresult"  >NO EXTRAS ON ACTIVITY RESULT</string>
+    <string name="no_extras"                    >"No PutExtras"</string>
+    <string name="tool_activity_result"         >[Activity Result]</string>
+
+
+    <!-- [Key: Put Extra] -->
+    <string name="EXTRA_STRING"     >KEY_EXTRA_STRING</string>
+    <string name="EXTRA_INT"        >KEY_EXTRA_INT</string>
+    <string name="EXTRA_LONG"       >KEY_EXTRA_LONG</string>
+    <string name="EXTRA_BOOLEAN"    >KEY_EXTRA_BOOLEAN</string>
+    <string name="EXTRA_DRAWABLE"   >KEY_EXTRA_DRAWABLE</string>
+    <string name="EXTRA_MODEL"      >KEY_EXTRA_ClassModel</string>
+</resources>
