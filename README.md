@@ -70,7 +70,7 @@ startActivity(i);
 * How to declare variables? 
   * [Variables](https://github.com/fefong/java_variables)
 
-* See [strings.xml](src/main/res/values/strings.xml)
+* See [strings.xml](app/src/main/res/values/strings.xml)
   
 ### Get PutExtras
 
